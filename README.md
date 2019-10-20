@@ -14,4 +14,3 @@
 
 ### **Week2**
   * AWSome Day 培訓[課程筆記](https://github.com/acgangel/Data-Mining/blob/master/week02/AWSome%20Day%20Note.md)
->>>>>>> 4106b71e614edcad03d9cdb7d02ba2615e827370
