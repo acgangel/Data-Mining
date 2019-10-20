@@ -1,7 +1,7 @@
 # Amazon SageMaker
 * 線上建立jupyter Notebook，所有套件已經內建
 
-## Woekflow
+## Workflow
 1. click **AWS Console**
 2. click **IAM** to build role of Amazon SageMaker
 3. click **Roles** and create role
