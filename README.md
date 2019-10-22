@@ -1,14 +1,7 @@
 # **108_1_Data Mining Course**
 Hi! I'm Jia. Welcome to my github of Data Mining Course. I'll update notes weekly of my learning process.
 ___
-## 💻**Before the Course**
-**Environment setting**
-1. Create your own **Github account** and **remote setting**
-2. Set up your **AWSEducator account**
-3. Sources
 
-
----
 ## 📙**Notes and Homework**
 
 ### Week1
@@ -16,7 +9,7 @@ ___
 >* Create your own **GitHub account** and set **remote settings**
 >  1. Sign up [GitHub](https://github.com/)
 >  2. Create a new repository, setting as below
-![GitHub](https://i.imgur.com/IUdYzYu.png)
+<img src="https://i.imgur.com/IUdYzYu.png" width="50%" height="50%" />
 >  3. Download and install [Github Desktop](https://desktop.github.com/) and your favorite text editor. I use [Atom](https://atom.io/) because GitHub package is bundled with it.
 >  4. Sign in Github Desktop then clone the repository just established.
 >  5. You can use GitHub Desktop and Atom to synchronize the data on GitHub.
