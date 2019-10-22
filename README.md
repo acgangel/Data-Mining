@@ -9,10 +9,10 @@ ___
 >* Create your own **GitHub account** and set **remote settings**
 >  1. Sign up [GitHub](https://github.com/)
 >  2. Create a new repository, setting as below
-<img src="https://i.imgur.com/IUdYzYu.png" width="50%" height="50%" />
->  3. Download and install [Github Desktop](https://desktop.github.com/) and your favorite text editor. I use [Atom](https://atom.io/) because GitHub package is bundled with it.
->  4. Sign in Github Desktop then clone the repository just established.
->  5. You can use GitHub Desktop and Atom to synchronize the data on GitHub.
+>  3. <img src="https://i.imgur.com/IUdYzYu.png" width="50%" height="50%" />
+>  4. Download and install [Github Desktop](https://desktop.github.com/) and your favorite text editor. I use [Atom](https://atom.io/) because GitHub package is bundled with it.
+>  5. Sign in Github Desktop then clone the repository just established.
+>  6. You can use GitHub Desktop and Atom to synchronize the data on GitHub.
 
 >* Create your own  **AWSEducator account**
 >  1. Sign up and sign in[AWSEducator](https://aws.amazon.com/tw/education/awseducate/)
