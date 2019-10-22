@@ -4,7 +4,7 @@ ___
 
 ## 📙**Notes and Homework**
 
-### Week1
+## Week1
 >  **💻 Environment setting**
 >* Create your own **GitHub account** and set **remote settings**
 >>1. Sign up [GitHub](https://github.com/)
@@ -23,10 +23,10 @@ ___
 >* 作業：[`Tidy Data`](https://github.com/acgangel/Data-Mining/blob/master/week01/Tidy%20Data.ipynb)
 
 
-### Week2
+## Week2
 >   * AWSome Day 培訓課程：[筆記](https://github.com/acgangel/Data-Mining/blob/master/week02/AWSome%20Day%20Note.md)
 
-### Week3
+## Week3
 >  * 上課內容：[筆記](https://github.com/acgangel/Data-Mining/blob/master/week03/1018%E8%AA%B2%E5%A0%82%E7%AD%86%E8%A8%98.md)
   * 課堂實作
     * AWS基礎操作：[筆記](https://github.com/acgangel/Data-Mining/blob/master/week03/AWS%E6%93%8D%E4%BD%9C%E7%AD%86%E8%A8%98.md)
