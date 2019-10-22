@@ -1,8 +1,9 @@
 # **108_1_Data Mining Course**
 Hi! I'm Jia. Welcome to my github of Data Mining Lesson. I'll update notes weekly of my learning process.
-___
 
-## 📙**Notes and Homework**
+
+
+# 📙**Notes and Homework**
 
 ## Week1
 >  **💻 Environment setting**
