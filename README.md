@@ -1,5 +1,5 @@
 # **108_1_Data Mining Course**
-Hi! I'm Jia. Welcome to my github of Data Mining Course. I'll update notes weekly of my learning process.
+Hi! I'm Jia. Welcome to my github of Data Mining Lesson. I'll update notes weekly of my learning process.
 ___
 
 ## 📙**Notes and Homework**
@@ -15,7 +15,7 @@ ___
 >>6. You can use GitHub Desktop and Atom to synchronize the data on GitHub.
 
 >* Create your own  **AWSEducator account**
->>1. Sign up and sign in[AWSEducator](https://aws.amazon.com/tw/education/awseducate/)
+>>1. Sign up and sign in [AWSEducator](https://aws.amazon.com/tw/education/awseducate/)
 >>2. Go to "my classroom"
 >>3. Click "AWS Console" and you will see the AWS Management Console
 
