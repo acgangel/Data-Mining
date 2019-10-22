@@ -21,7 +21,7 @@ Hi! I'm Jia. Welcome to my github of Data Mining Lesson. I'll update notes weekl
 >>3. Click "AWS Console" and you will see the AWS Management Console
 
 >* 任務：透過dplyr將資料處理成 Tidy Data (python請透過panda)，請透過兩個以上的不同資料來源，建立關聯新資料集  
->* 作業：[`Tidy Data`](https://nbviewer.jupyter.org/github/acgangel/Data-Mining/blob/master/week01/Tidy%20Data.ipynb)、[資料來源](https://github.com/acgangel/Data-Mining/tree/master/week01)
+>* 作業：[`Tidy Data`](https://nbviewer.jupyter.org/github/acgangel/Data-Mining/blob/master/week01/Tidy%20Data.ipynb)、[Raw Data](https://github.com/acgangel/Data-Mining/tree/master/week01)
 
 
 ## Week2
