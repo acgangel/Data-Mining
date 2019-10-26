@@ -34,4 +34,4 @@ Hi! I'm Jia. Welcome to my github of Data Mining Lesson. I'll update notes weekl
 >    * 範例練習：[`練習01`](https://github.com/acgangel/Data-Mining/blob/master/week03/Example/dangerous_companies.ipynb)
 
 ## Week4(關聯)
->  * 上課內容：
+>  * 上課內容：[筆記](https://github.com/acgangel/Data-Mining/blob/master/week04/1025%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98.md)
