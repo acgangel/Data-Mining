@@ -27,7 +27,8 @@ Hi! I'm Jia. Welcome to my github of Data Mining Lesson. I'll update notes weekl
 ## Week2
 >   * AWSome Day 培訓課程：[筆記](https://github.com/acgangel/Data-Mining/blob/master/week02/AWSome%20Day%20Note.md)
 
-## Week3 (決策樹)
+## Week3
+練習清整資料並應用決策樹做分類與預測
 >  * 上課筆記：[筆記](https://github.com/acgangel/Data-Mining/blob/master/week03/1018%E8%AA%B2%E5%A0%82%E7%AD%86%E8%A8%98.md)
 >  * 課堂實作
 >    * AWS基礎操作：[AWS筆記](https://github.com/acgangel/Data-Mining/blob/master/week03/AWS%E6%93%8D%E4%BD%9C%E7%AD%86%E8%A8%98.md)
@@ -35,7 +36,8 @@ Hi! I'm Jia. Welcome to my github of Data Mining Lesson. I'll update notes weekl
 >
 > * 作業01：[`Decesion Tree`](https://github.com/acgangel/Data-Mining/blob/master/week03/CQI%20Coffee%20Bean%20Quality%20-%20decision%20tree.ipynb)、[Data](https://github.com/acgangel/Data-Mining/tree/master/week03/Data)
 
-## Week4 (關聯)
+## Week4
+以購物籃模型做關聯分析
 >  * 上課筆記：[筆記](https://github.com/acgangel/Data-Mining/blob/master/week04/1025%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98.md)
 
 ## Week5
