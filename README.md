@@ -39,6 +39,12 @@ Hi! I'm Jia. Welcome to my github of Data Mining Lesson. I'll update notes weekl
 ## Week4
 以購物籃模型做關聯分析
 >  * 上課筆記：[筆記](https://github.com/acgangel/Data-Mining/blob/master/week04/1025%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98.md)
-
+>
+> * 作業02：[`Aprior`](https://github.com/acgangel/Data-Mining/blob/master/week04/Transactions%20from%20a%20Bakery%20-%20Apriori%20Algorithm.ipynb)、[Data](https://github.com/acgangel/Data-Mining/tree/master/week04)
 ## Week5
->  * 上課筆記：
+PCA
+> * 上課筆記：[筆記](https://github.com/acgangel/Data-Mining/blob/master/week04/1025%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98.md)
+> * 作業03：
+
+## Week6
+> * 上課筆記：
