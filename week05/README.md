@@ -1,0 +1,1 @@
+nbviewer:[https://nbviewer.jupyter.org/github/acgangel/Data-Mining/blob/master/week05/PCA_PhishingWebsites.ipynb](https://nbviewer.jupyter.org/github/acgangel/Data-Mining/blob/master/week05/PCA_PhishingWebsites.ipynb)
