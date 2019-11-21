@@ -44,7 +44,7 @@ Hi! I'm Jia. Welcome to my github of Data Mining Lesson. I'll update notes weekl
 ## Week5
 PCA
 > * 上課筆記：[筆記](https://github.com/acgangel/Data-Mining/blob/master/week04/1025%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98.md)
-> * 作業03：
+> * 作業03：[`PCA`](https://github.com/acgangel/Data-Mining/blob/master/week05/PCA_PhishingWebsites.ipynb)、[Data](https://github.com/acgangel/Data-Mining/tree/master/week05)
 
 ## Week6
 > * 上課筆記：
