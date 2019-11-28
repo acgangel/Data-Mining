@@ -1,0 +1,30 @@
+# 11/01上課筆記
+## TF-IDF
+課程投影片：[Slide](https://docs.google.com/presentation/d/e/2PACX-1vQDgSgxp2SxatinxmzX2sdwQZhfLRmnWAl6zqgZBjTrG51dg4Bo8t4u3sXezOLSKGO398BSYq48W97u/pub?start=false&loop=false&delayms=3000&slide=id.p)
+
+文字轉成可計算的數值 Term-Document Matrix (TDM)
+
+* [TF-IDF](https://mropengate.blogspot.com/2016/04/tf-idf-in-r-language.html?fbclid=IwAR1sf3lPe3PpaixlQ7UT1Xa--1gnNpA9s6tK4g_y9jHISmFM9SxRMSyA6Rg)
+* 單一字詞在所有文章內，能否凸顯出該字詞能代表少數文章
+
+變數|解釋
+------|:-----
+x|文字
+y|有出現x的文章
+tf|詞頻
+df|含有該詞的文章數
+N|總文章數
+
+* 在同樣的N下，當詞頻tf越高，df越小，w越高；df越大趨近於N，代表該詞在所有文章都有出現，此調整值趨近於0(~log1=0)，w越小或趨近於0
+
+## 詞向量
+1. Word2vec
+2. 採用Neural Network (NN)
+* [CBOW](https://stats.stackexchange.com/questions/140377/question-about-continuous-bag-of-words)，這篇Google有提供mapping的詞向量(對照大英字典)，也有提供訓練模型(哈利波特小說內容有許多無法對應的咒語，需要從train)
+
+## 將高維度在低維度做視覺化呈現：PCA降維
+* [PCA演算法](https://n2-data-science-programming.gitbook.io/rsummer/week_3/term-frequency)
+* 範例： [Google Job](https://www.kaggle.com/justjun0321/way-to-google-get-a-job-in-goggle-word-cloud)
+
+### 第四次作業
+Text Mining for Data Visulization

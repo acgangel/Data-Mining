@@ -47,4 +47,4 @@ PCA
 > * 作業03：[`PCA`](https://github.com/acgangel/Data-Mining/blob/master/week05/PCA_PhishingWebsites.ipynb)、[Data](https://github.com/acgangel/Data-Mining/tree/master/week05)
 
 ## Week6
-> * 上課筆記：
+> * 作業04：[`TF-IDF`](https://github.com/acgangel/Data-Mining/blob/master/week06/Truney%20Silver%20Products%20Details%20Analysis.ipynb)、[Data](https://github.com/acgangel/Data-Mining/tree/master/week06/Data)
