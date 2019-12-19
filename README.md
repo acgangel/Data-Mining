@@ -48,3 +48,6 @@ PCA
 
 ## Week6
 > * 作業04：[`TF-IDF`](https://github.com/acgangel/Data-Mining/blob/master/week06/Truney%20Silver%20Products%20Details%20Analysis-TFIDF.ipynb)、[Data](https://github.com/acgangel/Data-Mining/tree/master/week06/Data)
+
+## Week7
+> * 作業05：[`政治分析`](https://github.com/acgangel/Data-Mining/blob/master/week07/%E5%BE%9E%E6%94%BF%E6%B2%BB%E7%8D%BB%E9%87%91%E8%88%87%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E7%B2%89%E5%B0%88%E5%85%A7%E5%AE%B9%E7%9E%AD%E8%A7%A3%E6%94%BF%E6%B2%BB%E5%B9%95%E5%89%8D%E5%B9%95%E5%BE%8C%E7%9A%84%E5%B7%AE%E7%95%B0.ipynb)、[Data](https://github.com/acgangel/Data-Mining/tree/master/week07/Data)
