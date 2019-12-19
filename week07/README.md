@@ -1,0 +1,1 @@
+nbviewer:[https://nbviewer.jupyter.org/github/acgangel/Data-Mining/blob/master/week06/Truney%20Silver%20Products%20Details%20Analysis-TFIDF.ipynb](https://nbviewer.jupyter.org/github/acgangel/Data-Mining/blob/master/week06/Truney%20Silver%20Products%20Details%20Analysis-TFIDF.ipynb)
