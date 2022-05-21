@@ -5,7 +5,7 @@ Hi! I'm Jia. Welcome to my github of Data Mining Lesson. I'll update notes weekl
 
 # 📙**Notes and Homework**
 
-## Week1
+## Week1 Environment setting
 >  **💻 Environment setting**
 >* Create your own **GitHub account** and set **remote settings**
 >>1. Sign up [GitHub](https://github.com/)
@@ -20,34 +20,31 @@ Hi! I'm Jia. Welcome to my github of Data Mining Lesson. I'll update notes weekl
 >>2. Go to "my classroom"
 >>3. Click "AWS Console" and you will see the AWS Management Console
 
->* 任務：透過dplyr將資料處理成 Tidy Data (python請透過panda)，請透過兩個以上的不同資料來源，建立關聯新資料集  
->* 作業：[`Tidy Data`](https://nbviewer.jupyter.org/github/acgangel/Data-Mining/blob/master/week01/Tidy%20Data.ipynb)、[Raw Data](https://github.com/acgangel/Data-Mining/tree/master/week01)
+>* Task：透過dplyr將資料處理成 Tidy Data (python請透過panda)，請透過兩個以上的不同資料來源，建立關聯新資料集  
+>* Homework：[`Tidy Data`](https://nbviewer.jupyter.org/github/acgangel/Data-Mining/blob/master/week01/Tidy%20Data.ipynb)、[Raw Data](https://github.com/acgangel/Data-Mining/tree/master/week01)
 
 
-## Week2
->   * AWSome Day 培訓課程：[筆記](https://github.com/acgangel/Data-Mining/blob/master/week02/AWSome%20Day%20Note.md)
+## Week2 AWS
+>   * AWSome Day：[Notes](https://github.com/acgangel/Data-Mining/blob/master/week02/AWSome%20Day%20Note.md)
 
-## Week3
-練習清整資料並應用決策樹做分類與預測
->  * 上課筆記：[筆記](https://github.com/acgangel/Data-Mining/blob/master/week03/1018%E8%AA%B2%E5%A0%82%E7%AD%86%E8%A8%98.md)
+## Week3 Cleaning Data & Decesion Tree
+>  * 上課筆記：[Notes](https://github.com/acgangel/Data-Mining/blob/master/week03/1018%E8%AA%B2%E5%A0%82%E7%AD%86%E8%A8%98.md)
 >  * 課堂實作
 >    * AWS基礎操作：[AWS筆記](https://github.com/acgangel/Data-Mining/blob/master/week03/AWS%E6%93%8D%E4%BD%9C%E7%AD%86%E8%A8%98.md)
 >    * 範例練習：[`練習01`](https://github.com/acgangel/Data-Mining/blob/master/week03/Example/dangerous_companies.ipynb)   
 >
 > * 作業01：[`Decesion Tree`](https://github.com/acgangel/Data-Mining/blob/master/week03/CQI%20Coffee%20Bean%20Quality%20-%20decision%20tree.ipynb)、[Data](https://github.com/acgangel/Data-Mining/tree/master/week03/Data)
 
-## Week4
-以購物籃模型做關聯分析
+## Week4 Basket Analysis & Apriori Algorithm
 >  * 上課筆記：[筆記](https://github.com/acgangel/Data-Mining/blob/master/week04/1025%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98.md)
 >
 > * 作業02：[`Aprior`](https://github.com/acgangel/Data-Mining/blob/master/week04/Transactions%20from%20a%20Bakery%20-%20Apriori%20Algorithm.ipynb)、[Data](https://github.com/acgangel/Data-Mining/tree/master/week04)
-## Week5
-PCA
+## Week5 PCA
 > * 上課筆記：[筆記](https://github.com/acgangel/Data-Mining/blob/master/week04/1025%E8%AA%B2%E7%A8%8B%E7%AD%86%E8%A8%98.md)
 > * 作業03：[`PCA`](https://github.com/acgangel/Data-Mining/blob/master/week05/PCA_PhishingWebsites.ipynb)、[Data](https://github.com/acgangel/Data-Mining/tree/master/week05)
 
-## Week6
+## Week6 TF-IDF
 > * 作業04：[`TF-IDF`](https://github.com/acgangel/Data-Mining/blob/master/week06/Truney%20Silver%20Products%20Details%20Analysis-TFIDF.ipynb)、[Data](https://github.com/acgangel/Data-Mining/tree/master/week06/Data)
 
-## Week7
+## Week7 
 > * 作業05：[`政治分析`](https://github.com/acgangel/Data-Mining/blob/master/week07/%E5%BE%9E%E6%94%BF%E6%B2%BB%E7%8D%BB%E9%87%91%E8%88%87%E7%B8%BD%E7%B5%B1%E5%80%99%E9%81%B8%E4%BA%BA%E7%B2%89%E5%B0%88%E5%85%A7%E5%AE%B9%E7%9E%AD%E8%A7%A3%E6%94%BF%E6%B2%BB%E5%B9%95%E5%89%8D%E5%B9%95%E5%BE%8C%E7%9A%84%E5%B7%AE%E7%95%B0.ipynb)、[Data](https://github.com/acgangel/Data-Mining/tree/master/week07/Data)
